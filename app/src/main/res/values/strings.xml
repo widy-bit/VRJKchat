@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello_world">Hello World!</string>
+    <string name="insert_text">Insert Text</string>
+    <string name="submit">Submit</string>
+    <string name="president_university">President University</string>
+    <string name="image_description">Description of image</string>
+</resources>
